@@ -146,7 +146,7 @@ function HeroSection() {
             </svg>
           </button>
           <a 
-            href="https://github.com/yourusername/hashing-algo-visualizer" 
+            href="https://github.com/HackerOSK/HashingAlgo_Analysis.git" 
             target="_blank" 
             rel="noopener noreferrer"
             className="px-8 py-3 bg-gray-700 hover:bg-gray-600 rounded-lg font-semibold 
@@ -161,7 +161,7 @@ function HeroSection() {
       </div>
 
       {/* Gradient Overlay at Bottom */}
-      <div className="absolute bottom-0 left-0 w-full h-24 bg-gradient-to-t from-slate-900 to-transparent"></div>
+      <div className="absolute bottom-0 left-0 w-full h-24 "></div>
     </div>
   );
 }
